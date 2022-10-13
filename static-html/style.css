@@ -1,0 +1,16 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  display: table;
+  table-layout: fixed; }
+  table thead th {
+    background: #575454;
+    position: sticky;
+    top: 0;
+    font-size: 18.5px;
+    padding: 19px 10px;
+    line-height: 24px;
+    color: white; }
+  table tbody td {
+    padding: 5px 10px;
+    border: 1px solid #888888; }
